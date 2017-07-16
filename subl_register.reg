@@ -1,0 +1,224 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.as]
+@="Action Script Source File"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.as\DefaultIcon]
+@="\"%SystemRoot%\\system32\\imageres.dll\",-102"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.as\shell]
+@="Open"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.as\shell\Open]
+@="Edit"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.as\shell\Open\command]
+@="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.asm]
+@="Assembly Source File"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.asm\DefaultIcon]
+@="\"%SystemRoot%\\system32\\imageres.dll\",-102"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.asm\shell]
+@="Open"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.asm\shell\Open]
+@="Edit"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.asm\shell\Open\command]
+@="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.c]
+@="C Source File"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.c\DefaultIcon]
+@="\"%SystemRoot%\\system32\\imageres.dll\",-102"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.c\shell]
+@="Open"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.c\shell\Open]
+@="Edit"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.c\shell\Open\command]
+@="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.cc]
+@="C++ Source File"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.cc\DefaultIcon]
+@="\"%SystemRoot%\\system32\\imageres.dll\",-102"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.cc\shell]
+@="Open"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.cc\shell\Open]
+@="Edit"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.cc\shell\Open\command]
+@="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.cfg]
+@="Configuration File"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.cfg\DefaultIcon]
+@="\"%SystemRoot%\\system32\\imageres.dll\",-69"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.cfg\shell]
+@="Open"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.cfg\shell\Open]
+@="Edit"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.cfg\shell\Open\command]
+@="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.cpp]
+@="C++ Source File"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.cpp\DefaultIcon]
+@="\"%SystemRoot%\\system32\\imageres.dll\",-102"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.cpp\shell]
+@="Open"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.cpp\shell\Open]
+@="Edit"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.cpp\shell\Open\command]
+@="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.h]
+@="C/C++ Header File"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.h\DefaultIcon]
+@="\"%SystemRoot%\\system32\\imageres.dll\",-102"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.h\shell]
+@="Open"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.h\shell\Open]
+@="Edit"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.h\shell\Open\command]
+@="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.hpp]
+@="C++ Header File"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.hpp\DefaultIcon]
+@="\"%SystemRoot%\\system32\\imageres.dll\",-102"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.hpp\shell]
+@="Open"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.hpp\shell\Open]
+@="Edit"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.hpp\shell\Open\command]
+@="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.ini]
+@="Configuration File"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.ini\DefaultIcon]
+@="\"%SystemRoot%\\system32\\imageres.dll\",-69"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.ini\shell]
+@="Open"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.ini\shell\Open]
+@="Edit"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.ini\shell\Open\command]
+@="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.inl]
+@="Inline Source File"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.inl\DefaultIcon]
+@="\"%SystemRoot%\\system32\\imageres.dll\",-102"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.inl\shell]
+@="Open"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.inl\shell\Open]
+@="Edit"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.inl\shell\Open\command]
+@="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.lua]
+@="Lua Source File"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.lua\DefaultIcon]
+@="\"%SystemRoot%\\system32\\imageres.dll\",-102"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.lua\shell]
+@="Open"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.lua\shell\Open]
+@="Edit"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.lua\shell\Open\command]
+@="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.nfo]
+@="Info Text File"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.nfo\DefaultIcon]
+@="\"%SystemRoot%\\system32\\imageres.dll\",-102"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.nfo\shell]
+@="Open"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.nfo\shell\Open]
+@="Edit"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.nfo\shell\Open\command]
+@="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\" \"%1\""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.txt]
+@="Text File"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.txt\DefaultIcon]
+@="\"%SystemRoot%\\system32\\imageres.dll\",-102"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.txt\shell]
+@="Open"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.txt\shell\Open]
+@="Edit"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\SublimeText.txt\shell\Open\command]
+@="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\" \"%1\""
+
+
+
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Sublime\SublimeText\Capabilites]
+"ApplicationDescription"="Sublime Text 3 - Text editor of the future!"
+"ApplicationName"="Sublime Text 3"
+"ApplicationIcon"="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\",0"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Sublime\SublimeText\Capabilites\FileAssociations]
+".as"="SublimeText.as"
+".asm"="SublimeText.asm"
+".c"="SublimeText.c"
+".cc"="SublimeText.cc"
+".cfg"="SublimeText.cfg"
+".cpp"="SublimeText.cpp"
+".h"="SublimeText.h"
+".hpp"="SublimeText.hpp"
+".ini"="SublimeText.ini"
+".inl"="SublimeText.inl"
+".lua"="SublimeText.lua"
+".nfo"="SublimeText.nfo"
+".txt"="SublimeText.txt"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\RegisteredApplications]
+"Sublime Text 3"="Software\\Sublime\\SublimeText\\Capabilites"
