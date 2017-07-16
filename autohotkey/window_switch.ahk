@@ -29,3 +29,19 @@ IfWinExist, Hangouts
     WinActivate 
     return
 }
+
+#!t::
+SetTitleMatchMode, 2
+IfWinExist, ahk_exe Powershell.exe
+{
+    WinActivate 
+    return
+}
+
+#!a::
+SetTitleMatchMode, 2
+IfWinExist, Anaconda
+{
+    WinActivate 
+    return
+}
