@@ -5,12 +5,22 @@ IfWinExist, Chrome
     WinActivate 
     return
 }
+Else
+{
+    Run, Chrome.exe
+    return
+}
 
 #!s::
 SetTitleMatchMode, 2
 IfWinExist, Slack 
 {
     WinActivate 
+    return
+}
+Else
+{
+    Run, Slack.exe
     return
 }
 
@@ -21,6 +31,11 @@ IfWinExist, Sublime
     WinActivate 
     return
 }
+Else
+{
+    Run, sublime_text.exe
+    return
+}
 
 #!h::
 SetTitleMatchMode, 2
@@ -29,12 +44,22 @@ IfWinExist, Hangouts
     WinActivate 
     return
 }
+Else
+{
+    Run, open "C:\Users\mvernacc\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Chrome Apps\Google Hangouts.lnk"
+    return
+}
 
-#!t::
+#!g::
 SetTitleMatchMode, 2
 IfWinExist, ahk_exe Powershell.exe
 {
     WinActivate 
+    return
+}
+Else
+{
+    Run, open "C:\Users\mvernacc\repos\windows-config\autohotkey\Git Shell.lnk"
     return
 }
 
@@ -43,5 +68,10 @@ SetTitleMatchMode, 2
 IfWinExist, Anaconda
 {
     WinActivate 
+    return
+}
+Else
+{
+    Run, open "C:\Users\mvernacc\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Anaconda2 (64-bit)\Anaconda Prompt.lnk"
     return
 }
