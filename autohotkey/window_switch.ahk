@@ -13,14 +13,14 @@ Else
 
 #!s::
 SetTitleMatchMode, 2
-IfWinExist, Slack 
+IfWinExist, ahk_exe slack.exe
 {
     WinActivate 
     return
 }
 Else
 {
-    Run, Slack.exe
+    Run, "C:\Users\mvernacc\AppData\Local\slack\slack.exe"
     return
 }
 
